@@ -16,6 +16,6 @@ This Image shows the ouput of the code
 
 ## Conclusion
 This interactive visual allows the bakery manager to plan ahead what items are most likely to sell on a given day and time.
-for example, it shows that from the hour of 7:15 to 13:00, Traditional Baguette is the most in demand item . also shows that the Bakery Sales peak between 9:45 and 12:15.
+for example, it shows that from the hour of 7:15 to 13:00, Traditional Baguette is the most in demand item. However, the Sales of Coupe only picks up at 9:45 to 12:15 which happenes to be when the Bakery Sales peak as well.
 
 
